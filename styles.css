@@ -1,0 +1,329 @@
+.box {
+
+    margin: 5vh;
+    border-radius: 1vh;
+    background-color: rgb(240, 240, 244);
+    padding-top:2vh;
+}
+
+.company {
+    border: 1px solid rgb(232, 216, 216);
+    position:relative;
+    align-items: center;
+    padding-top:3vh;
+    
+    
+    border-radius: 10px 0 0 10px;
+    color: rgb(51, 192, 234);
+    font-weight: 900;
+    width: 15vw;
+    text-align: center;
+}
+
+.user {
+    border: 1px solid rgb(232, 216, 216);
+   
+    padding-top: 3vh;
+    margin-right: 4vw;
+    padding-left: 2vw;
+    border-radius: 0px 10px 10px 0px;
+}
+
+.navlist {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+}
+
+.search {
+    padding: 2vh;
+    width: 20vw;
+    border: none;
+    border-radius: 1vh;
+}
+
+.my-project-button {
+    display: flex;
+
+}
+
+.btns {
+    padding: 2vh;
+    margin: 2px;
+    border-radius: 1vh;
+    font-size: 2vh;
+    width: 20vw;
+    color: black;
+    font-weight: 900;
+    background-color: white;
+    border: none
+}
+
+.btns:hover {
+    background-image: linear-gradient(to right, rgb(138 185 243), rgb(106 162 240));
+
+}
+
+.format {
+    display: flex;
+
+
+}
+
+.one {
+    background-color: white;
+    margin: 1vh;
+    border-radius: 1vh;
+    width: 20in
+}
+
+.two {
+    width: 49%;
+    margin: 1vh;
+    border-radius: 1vh;
+}
+
+.three {
+
+    width: 49%;
+    margin: 1vh;
+    border-radius: 1vh;
+
+}
+
+.side {
+    display: flex;
+}
+
+h4 {
+  font-size: 1.2em;
+}
+
+.list {
+    list-style: none;
+    width: 13vw
+}
+
+.two1 {
+    display: flex
+}
+
+.item {
+
+    width: 50%;
+    padding: 3vh;
+    margin: 1vh;
+    border-radius: 1vh;
+    height: 13vh;
+    padding-top: 5vh;
+    padding-left: 4vw;
+    background-color: white;
+
+}
+
+.sidenav {
+    padding-top: 1vh;
+    border-radius: 1vh;
+    padding-bottom: 1vh;
+}
+
+.sidenav:hover {
+    background-color: rgb(243 246 250);
+    color: rgb(18, 175, 238);
+    padding: 2vh;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+
+}
+
+.invoice {
+    display: flex;
+    justify-content: space-around;
+    margin: 6px
+}
+
+.in {
+    font-size: 2.5vh;
+    font-weight: 1000;
+}
+
+.txt {
+    margin-left: 10vw;
+}
+
+.week {
+    padding-top: 7%;
+    margin-left: 3vh;
+}
+
+.graphxaxis {
+    display: flex;
+    margin-left: 2vw
+}
+
+.graph-axis-label {
+    font-size: 12px;
+    padding: 2vh;
+    margin-left: 1vw;
+    display: inline-block;
+
+
+}
+
+.two2 {
+    border-radius: 1vh;
+    background-color: white;
+    padding: 1vh;
+}
+
+.proimg {
+    width: 5vw;
+    height: 6vh;
+    border-radius: 5vh;
+    padding: 2vh;
+}
+
+.imgtag {
+    display: flex;
+    position:relative;
+    bottom:1vh;
+    align-items: center;
+}
+
+.proimg1 {
+
+    width: 5vw;
+    height: 6vh;
+    border-radius: 5vh;
+
+
+}
+
+.yoss {
+    color: rgb(110 190 248)
+}
+
+body {
+    background-image: linear-gradient(to right, rgb(138 185 243), rgb(191, 90, 193));
+
+}
+
+.loading {
+    width: 100%;
+    margin-top: 3vh;
+    border-radius: 10px 0 0 10px;
+    text-align: right;
+    background: white;
+    padding-bottom: 15vh;
+    padding-left: 1.2vw;
+
+
+}
+
+.loading2 {
+
+    width: 95%;
+    margin-top: 3vh;
+    border-radius: 0 10px 10px 0;
+    background-color: white;
+    padding-bottom: 15vh;
+    padding-left: 1vw;
+
+}
+
+.new {
+    display: flex;
+
+}
+
+i {
+    font-size: 5vh;
+    padding: 2vh;
+
+}
+
+.yellow {
+    color: yellow;
+}
+
+.blue {
+    color: blue;
+
+}
+
+.orange {
+    color: orange;
+}
+
+.violet {
+    color: violet;
+}
+
+.green {
+    color: green;
+}
+
+.pink {
+    color: pink;
+}
+
+.skyblue {
+    color: skyblue;
+
+}
+
+.lobtn {
+    color: rgb(22, 184, 248);
+}
+
+.red1 {
+    border: 1px solid red;
+    padding-left: 1vh;
+    color: red;
+    background-color: red;
+    border-radius: 5px;
+}
+
+.blu1 {
+    border: 1px solid blue;
+    padding-left: 1vh;
+    color: blue;
+    background-color: blue;
+    border-radius: 5px;
+
+}
+
+.yel1 {
+    border: 1px solid yellow;
+    padding-left: 1vh;
+    color: yellow;
+    background-color: yellow;
+    border-radius: 5px;
+
+}
+
+.violet1 {
+    border: 1px solid violet;
+    padding-left: 1vh;
+    color: violet;
+    background-color: violet;
+    border-radius: 5px;
+
+}
+
+.graph-container {
+    height: 200px;
+    overflow: hidden;
+}
+
+svg {
+    margin-left: 5vw;
+}
+
+.proimg2 {
+    width: 5vw;
+    height: 6vh;
+    border-radius: 5vh;
+    padding-top: 2vh;
+    padding-left: 2vh;
+
+}
